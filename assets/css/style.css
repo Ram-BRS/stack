@@ -24,7 +24,8 @@ body {
 }
 
 h1 {
-    color: var(--primary-color);
+    color: var(white);
+    text-align: center;
 }
 
 p {
